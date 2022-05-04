@@ -8,22 +8,28 @@ namespace Product_Class
     {
         public double Volume;
         public double FatRate;
-        public Milk(string name,double price,double volume, double fatRate) :base(name, price)
+        public Milk(string name,double price,double volume, double fatRate,byte purchase) :base(name, price,purchase)
         {
             Volume = volume;
             FatRate = fatRate;
+            Console.Write("Yagliliq faizini daxil edin: ");
+            FatRate = Convert.ToDouble(Console.ReadLine());
+            Console.Write("Almaq istdeyiniz miqdari daxil edin: ");
+            Purchase= Convert.ToByte(Console.ReadLine());
+
 
         }
         public override void Sell()
         {
-            TotalSaled = ++countSaled;
+            TotalSaled += Purchase;
             Console.WriteLine("Satilan mehsul sayi: " + TotalSaled);
 
             if (count > 0)
             {
-               
-                count--;
-                TotalIncome += Price;
+
+                count -= Purchase;
+                TotalIncome += Price*Purchase;
+                
                 Console.WriteLine($"Qalan mehsul sayi: {count}");
                 Console.WriteLine($"Satisdan gelen umumi gelir: {TotalIncome}");
                
