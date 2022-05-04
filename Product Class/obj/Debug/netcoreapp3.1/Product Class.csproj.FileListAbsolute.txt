@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\C# tasks\Product Class\Product Class\obj\Debug\netcoreapp3.1\Product Class.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\C# tasks\Product Class\Product Class\obj\Debug\netcoreapp3.1\Product Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\C# tasks\Product Class\Product Class\obj\Debug\netcoreapp3.1\Product Class.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\C# tasks\Product Class\Product Class\obj\Debug\netcoreapp3.1\Product Class.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\C# tasks\Product Class\Product Class\obj\Debug\netcoreapp3.1\Product Class.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C# tasks\Product Class\Product Class\bin\Debug\netcoreapp3.1\Product Class.exe
+C:\Users\ASUS\Desktop\C# tasks\Product Class\Product Class\bin\Debug\netcoreapp3.1\Product Class.deps.json
+C:\Users\ASUS\Desktop\C# tasks\Product Class\Product Class\bin\Debug\netcoreapp3.1\Product Class.runtimeconfig.json
+C:\Users\ASUS\Desktop\C# tasks\Product Class\Product Class\bin\Debug\netcoreapp3.1\Product Class.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\C# tasks\Product Class\Product Class\bin\Debug\netcoreapp3.1\Product Class.dll
+C:\Users\ASUS\Desktop\C# tasks\Product Class\Product Class\bin\Debug\netcoreapp3.1\Product Class.pdb
+C:\Users\ASUS\Desktop\C# tasks\Product Class\Product Class\obj\Debug\netcoreapp3.1\Product Class.dll
+C:\Users\ASUS\Desktop\C# tasks\Product Class\Product Class\obj\Debug\netcoreapp3.1\Product Class.pdb
+C:\Users\ASUS\Desktop\C# tasks\Product Class\Product Class\obj\Debug\netcoreapp3.1\Product Class.genruntimeconfig.cache
